@@ -52,14 +52,5 @@ It analyzes loan applications, funded amounts, repayments, borrower profiles, an
 
 ---
 
-## 📁 Project Structure
-- `data/` → Dataset
-- `scripts/` → Python analysis code
-- `notebooks/` → Jupyter notebook
-- `outputs/` → Saved visualizations
-- `reports/` → Summary report
-
----
-
 ## 👤 Author
 **Gulab Gore**  
